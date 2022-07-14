@@ -1,0 +1,7 @@
+key|name|branch|mail|password
+2001|dev namdev|cse|dev@gmail.com|1
+2002|ishu sharma|cse|ishu@gmail.com|12
+2003|ayush khan|cse|ayush|123
+2004|divyanshu|elx|divyanshu|1234
+2005|shubham|cse|shubma|12345
+2006|dev|cse|namdev|123456
